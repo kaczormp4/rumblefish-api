@@ -1,0 +1,39 @@
+{
+  "recommendations": [
+  {
+        "id": "1and3011",
+        "imageURL": "https://fwcdn.pl/fpo/94/59/689459/7752134.3.jpg",
+        "title": "Inferno",
+        "summary": "Lorem ipsum….",
+        "rating": 5.3
+    },
+    {
+        "id": "2301abc”",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "summary": "Lorem ipsum….",
+        "rating": 8.2
+    },
+    {
+        "id": "22wrw2444",
+        "imageURL": "https://fwcdn.pl/fpo/91/13/299113/7332755.3.jpg",
+        "title": "Avatar",
+        "summary": "Lorem ipsum….",
+        "rating": 10
+    },
+    {
+        "id": "21w2w2544",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_.jpg",
+        "title": "Despicable ME",
+        "summary": "Lorem ipsum….",
+        "rating": 7
+    },
+    {
+        "id": "2aaaw2444",
+        "imageURL": "https://fwcdn.pl/fpo/30/42/363042/7490863.3.jpg",
+        "title": "HOTEL Transylvania",
+        "summary": "Lorem ipsum….",
+        "rating": 8.5
+    }
+  ]
+}
